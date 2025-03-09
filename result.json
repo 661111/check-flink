@@ -1,0 +1,33 @@
+{
+    "timestamp": "2025-03-09 21:07:07",
+    "accessible_count": 5,
+    "inaccessible_count": 0,
+    "total_count": 5,
+    "link_status": [
+        {
+            "name": "苏晓河",
+            "link": "https://www.sxiaohe.top/",
+            "latency": 0.97
+        },
+        {
+            "name": "安小歪",
+            "link": "https://blog.anxy.top/",
+            "latency": 1.11
+        },
+        {
+            "name": "清羽飞扬",
+            "link": "https://blog.liushen.fun/",
+            "latency": 0.28
+        },
+        {
+            "name": "轻笑Chuckle",
+            "link": "https://www.qcqx.cn",
+            "latency": 1.0
+        },
+        {
+            "name": "七七小栈",
+            "link": "https://blog.zsrooj.site/",
+            "latency": 0.31
+        }
+    ]
+}
